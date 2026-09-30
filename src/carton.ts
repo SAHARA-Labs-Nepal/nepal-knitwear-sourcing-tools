@@ -64,3 +64,40 @@ export function plan(i: PlanInput) {
   const lclRt = Math.max(totalCbm, totalKg / 1000);
   return { cartons, cartonNetKg, cartonGrossKg, cartonCbm, totalCbm, totalKg, containers, airKg, courierKg, lclRt };
 }
+
+/** Your forwarder's quotes, US$. Leave a rate empty (NaN or 0) to skip that option. */
+export interface Rates {
+  airPerKg: number;
+  lclPerRt: number;
+  fcl: Record<(typeof CONTAINERS)[number]['key'], number>;
+}
+
+export interface FreightOption { mode: string; cost: number; perPiece: number; note: string }
+
+/**
+ * Compares the options for which a rate is given: air (chargeable kg × rate), sea LCL
+ * (revenue tons × rate) and full containers (containers needed × price). Sorted cheapest first.
+ */
+export function freightCosts(p: ReturnType<typeof plan>, qty: number, r: Rates): FreightOption[] {
+  const out: FreightOption[] = [];
+  if (!(qty > 0) || p.cartons === 0) return out;
+  const per = (c: number) => c / qty;
+  const has = (x: number) => Number.isFinite(x) && x > 0;
+  if (has(r.airPerKg)) {
+    const c = p.airKg * r.airPerKg;
+    out.push({ mode: 'Air', cost: c, perPiece: per(c), note: `${Math.round(p.airKg).toLocaleString('en-US')} kg chargeable` });
+  }
+  if (has(r.lclPerRt)) {
+    const c = p.lclRt * r.lclPerRt;
+    const small = p.lclRt < 1 ? '; under 1 revenue ton, so check your forwarder’s minimum charge' : '';
+    out.push({ mode: 'Sea, shared container (LCL)', cost: c, perPiece: per(c), note: `${p.lclRt.toFixed(2)} revenue tons${small}` });
+  }
+  for (const k of p.containers) {
+    const price = r.fcl[k.key as keyof Rates['fcl']];
+    if (has(price) && k.needed > 0) {
+      const c = k.needed * price;
+      out.push({ mode: `Sea, ${k.name}`, cost: c, perPiece: per(c), note: `${k.needed} container${k.needed > 1 ? 's' : ''}` });
+    }
+  }
+  return out.sort((a, b) => a.cost - b.cost);
+}
