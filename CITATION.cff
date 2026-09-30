@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this data or these tools, please cite them as below."
+title: "Nepal knitwear sourcing tools: garment import duty dataset and origin checker"
+authors:
+  - name: "Trishakti Apparel"
+    website: "https://trishaktiapparel.com"
+date-released: 2026-09-30
+version: "2026-09-30"
+license: CC-BY-4.0
+url: "https://trishaktiapparel.com/tools/"
+repository-code: "https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools"
+keywords: [import duty, rules of origin, garments, knitwear, Nepal, LDC, tariff]

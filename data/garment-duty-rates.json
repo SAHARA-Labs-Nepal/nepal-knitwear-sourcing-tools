@@ -1,0 +1,3719 @@
+{
+  "title": "Garment import duty by origin and destination",
+  "version": "2026-09-25",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "publisher": "Trishakti Apparel",
+  "homepage": "https://trishaktiapparel.com/tools/duty-rates/",
+  "citation": "Trishakti Apparel (2026). Garment import duty by origin and destination (version 2026-09-25). https://trishaktiapparel.com/tools/duty-rates/",
+  "rows": [
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Everything But Arms",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 9.6,
+      "scheme": "Standard GSP (EU–India FTA not yet in force)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        },
+        {
+          "id": "eu-india-fta-status",
+          "publisher": "European Commission",
+          "title": "EU–India trade agreement: concluded, not yet in force (adoption, signature and ratification pending)",
+          "url": "https://commission.europa.eu/topics/trade/eu-india-trade-agreement_en"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 9.6,
+      "scheme": "Standard GSP (EU–India FTA not yet in force)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        },
+        {
+          "id": "eu-india-fta-status",
+          "publisher": "European Commission",
+          "title": "EU–India trade agreement: concluded, not yet in force (adoption, signature and ratification pending)",
+          "url": "https://commission.europa.eu/topics/trade/eu-india-trade-agreement_en"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 9.6,
+      "scheme": "Standard GSP (EU–India FTA not yet in force)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        },
+        {
+          "id": "eu-india-fta-status",
+          "publisher": "European Commission",
+          "title": "EU–India trade agreement: concluded, not yet in force (adoption, signature and ratification pending)",
+          "url": "https://commission.europa.eu/topics/trade/eu-india-trade-agreement_en"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "EVFTA — needs Vietnamese or EU fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "EVFTA — needs Vietnamese or EU fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "European Union",
+      "destination_key": "eu",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "EVFTA — needs Vietnamese or EU fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "eu-taric-by-origin",
+          "publisher": "European Commission – TARIC",
+          "title": "TARIC measures for CN 6109 10 00, 6105 10 00 and 6110 20 by origin (third-country duty 12%; EBA 0%; GSP 9.6% for India; EVFTA 0% for Viet Nam since 1 Jan 2025)",
+          "url": "https://ec.europa.eu/taxation_customs/dds2/taric/measures.jsp?Lang=en&Taric=6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "DCTS Comprehensive Preferences",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "UK–India CETA (from 15 Jul 2026)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "UK–India CETA (from 15 Jul 2026)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "UK–India CETA (from 15 Jul 2026)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 12,
+      "scheme": "Third-country (MFN) duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "UKVFTA — needs Vietnamese or UK fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "UKVFTA — needs Vietnamese or UK fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United Kingdom",
+      "destination_key": "uk",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "UKVFTA — needs Vietnamese or UK fabric",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uk-tariff-by-origin",
+          "publisher": "UK Integrated Online Tariff",
+          "title": "Commodities 6109100010, 6105100000 and 6110209100 by origin (12% third-country; DCTS 0%; UK–India CETA 0% from 15 Jul 2026; UKVFTA 0% from 1 Jan 2025)",
+          "url": "https://www.trade-tariff.service.gov.uk/commodities/6109100010"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 16.5,
+      "scheme": "MFN only — no additional duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 19.7,
+      "scheme": "MFN only — no additional duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 16.5,
+      "scheme": "MFN only — no additional duty",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 26.5,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 29.7,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 26.5,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 26.5,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 29.7,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 26.5,
+      "scheme": "MFN + 10% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 36.5,
+      "scheme": "MFN + 7.5% Section 301 List 4A + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        },
+        {
+          "id": "ustr-301-list4a",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Section 301 China – Notice of Modification, List 4A (additional 7.5%, HTS 9903.88.15)",
+          "url": "https://ustr.gov/sites/default/files/enforcement/301Investigations/Notice_of_Modification_(List_4A_and_List_4B).pdf"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 39.7,
+      "scheme": "MFN + 7.5% Section 301 List 4A + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        },
+        {
+          "id": "ustr-301-list4a",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Section 301 China – Notice of Modification, List 4A (additional 7.5%, HTS 9903.88.15)",
+          "url": "https://ustr.gov/sites/default/files/enforcement/301Investigations/Notice_of_Modification_(List_4A_and_List_4B).pdf"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 36.5,
+      "scheme": "MFN + 7.5% Section 301 List 4A + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        },
+        {
+          "id": "ustr-301-list4a",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Section 301 China – Notice of Modification, List 4A (additional 7.5%, HTS 9903.88.15)",
+          "url": "https://ustr.gov/sites/default/files/enforcement/301Investigations/Notice_of_Modification_(List_4A_and_List_4B).pdf"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 29,
+      "scheme": "MFN + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 32.2,
+      "scheme": "MFN + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "United States",
+      "destination_key": "usa",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 29,
+      "scheme": "MFN + 12.5% Section 301 (forced labour)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "us-hts-61",
+          "publisher": "U.S. International Trade Commission",
+          "title": "Harmonized Tariff Schedule – 6109.10.00 (16.5%), 6105.10.00 (19.7%), 6110.20.20 (16.5%)",
+          "url": "https://hts.usitc.gov/search?query=6109.10.00"
+        },
+        {
+          "id": "ustr-301-forced-labor",
+          "publisher": "Office of the U.S. Trade Representative",
+          "title": "Notice of actions in Section 301 investigations of 60 economies related to forced labour import prohibitions (effective 24 July 2026)",
+          "url": "https://ustr.gov/sites/default/files/files/Press/Releases/2026/FLIP%20301%20Investigation%20Final%20Action%20FRN%207-23-26%20FINAL.pdf"
+        },
+        {
+          "id": "fr-301-forced-labor",
+          "publisher": "Federal Register",
+          "title": "Section 301 forced-labour action: final notice (91 FR 47318, 28 July 2026)",
+          "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15181"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Least Developed Country Tariff",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 18,
+      "scheme": "MFN (no GPT on these lines)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 18,
+      "scheme": "MFN (no GPT on these lines)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 18,
+      "scheme": "MFN (no GPT on these lines)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 18,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 18,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 18,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "CPTPP — yarn-forward rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "CPTPP — yarn-forward rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Canada",
+      "destination_key": "canada",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "CPTPP — yarn-forward rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "ca-tariff-ch61",
+          "publisher": "Canada Border Services Agency",
+          "title": "Customs Tariff 2026 – Chapter 61 (MFN 18%; LDCT Free)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/ch61-2026-eng.pdf"
+        },
+        {
+          "id": "ca-countries-2026",
+          "publisher": "Canada Border Services Agency",
+          "title": "List of countries and applicable tariff treatments, 2026 (China: MFN; Viet Nam: MFN and CPTPT)",
+          "url": "https://www.cbsa-asfc.gc.ca/trade-commerce/tariff-tarif/2026/01-99/countries-pays-eng.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC preference",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Japan–India CEPA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Japan–India CEPA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Japan–India CEPA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 4.6,
+      "scheme": "RCEP staged rate (to 31 Mar 2027)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 6.8,
+      "scheme": "RCEP staged rate (to 31 Mar 2027)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 6.8,
+      "scheme": "RCEP staged rate (to 31 Mar 2027)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Japan–Vietnam EPA / CPTPP / RCEP",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Japan–Vietnam EPA / CPTPP / RCEP",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Japan",
+      "destination_key": "japan",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Japan–Vietnam EPA / CPTPP / RCEP",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "jp-tariff-ch61",
+          "publisher": "Japan Customs",
+          "title": "Japan’s Tariff Schedule as of 8 August 2026 – Chapter 61",
+          "url": "https://www.customs.go.jp/english/tariff/2026_08_08/data/e_61.htm"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC rate — 50% factory-cost rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-roo-guide",
+          "publisher": "Australian Border Force",
+          "title": "Preferential Rules of Origin – guide to claiming preferential rates under non-FTA arrangements (LDC rule, s153NA; 25% cap on non-LDC developing-country materials)",
+          "url": "https://www.abf.gov.au/free-trade-agreements/files/instructions-guidelines-preferential-rules-origin.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Australia–India ECTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-10a-india",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 10A (Australia–India ECTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-10a"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Australia–India ECTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-10a-india",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 10A (Australia–India ECTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-10a"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Australia–India ECTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-10a-india",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 10A (Australia–India ECTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-10a"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "China–Australia FTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-12-china",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 12 (China–Australia FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-12"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "China–Australia FTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-12-china",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 12 (China–Australia FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-12"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "China–Australia FTA",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-12-china",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 12 (China–Australia FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-12"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "AANZFTA / CPTPP",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-8-aanzfta",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 8 (ASEAN–Australia–New Zealand FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-8"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "AANZFTA / CPTPP",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-8-aanzfta",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 8 (ASEAN–Australia–New Zealand FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-8"
+        }
+      ]
+    },
+    {
+      "destination": "Australia",
+      "destination_key": "australia",
+      "duty_basis": "FOB",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "AANZFTA / CPTPP",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "abf-tariff-ch61",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 3, Section XI, Chapter 61",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-3/section-xi/chapter-61"
+        },
+        {
+          "id": "abf-sched-8-aanzfta",
+          "publisher": "Australian Border Force",
+          "title": "Working tariff – Schedule 8 (ASEAN–Australia–New Zealand FTA): all rates Free except listed lines; no Chapter 61 lines listed",
+          "url": "https://www.abf.gov.au/importing-exporting-and-manufacturing/tariff-classification/current-tariff/schedule-8"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (no agreement)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (no agreement)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (no agreement)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (CEPA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (CEPA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (CEPA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-cepas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "Comprehensive Economic Partnership Agreements (partner list; Nepal and Bangladesh not listed)",
+          "url": "https://www.trade.gov.ae/comprehensive-economic-partnership-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "UAE–India CEPA (since 1 May 2022)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-india-cepa-text",
+          "publisher": "UAE Ministry of Economy – UAE–India CEPA",
+          "title": "Final agreement text, incl. UAE tariff schedule (Annex 2B): 6105.10, 6109.10, 6110.20 base rate 5%, category A (0% from day 1)",
+          "url": "https://www.moet.gov.ae/documents/20121/1347101/Final+Agreement_UAE+India+CEPA.pdf"
+        },
+        {
+          "id": "uae-moft-india-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–India CEPA (entered into force 1 May 2022)",
+          "url": "https://www.trade.gov.ae/uae-india-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "UAE–India CEPA (since 1 May 2022)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-india-cepa-text",
+          "publisher": "UAE Ministry of Economy – UAE–India CEPA",
+          "title": "Final agreement text, incl. UAE tariff schedule (Annex 2B): 6105.10, 6109.10, 6110.20 base rate 5%, category A (0% from day 1)",
+          "url": "https://www.moet.gov.ae/documents/20121/1347101/Final+Agreement_UAE+India+CEPA.pdf"
+        },
+        {
+          "id": "uae-moft-india-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–India CEPA (entered into force 1 May 2022)",
+          "url": "https://www.trade.gov.ae/uae-india-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "UAE–India CEPA (since 1 May 2022)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-india-cepa-text",
+          "publisher": "UAE Ministry of Economy – UAE–India CEPA",
+          "title": "Final agreement text, incl. UAE tariff schedule (Annex 2B): 6105.10, 6109.10, 6110.20 base rate 5%, category A (0% from day 1)",
+          "url": "https://www.moet.gov.ae/documents/20121/1347101/Final+Agreement_UAE+India+CEPA.pdf"
+        },
+        {
+          "id": "uae-moft-india-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–India CEPA (entered into force 1 May 2022)",
+          "url": "https://www.trade.gov.ae/uae-india-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (GCC–China FTA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-gcc-ftas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "GCC free trade agreements (China listed as under negotiation)",
+          "url": "https://www.trade.gov.ae/web/guest/gcc-free-trade-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (GCC–China FTA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-gcc-ftas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "GCC free trade agreements (China listed as under negotiation)",
+          "url": "https://www.trade.gov.ae/web/guest/gcc-free-trade-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 5,
+      "scheme": "GCC common external tariff (GCC–China FTA in negotiation)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "dubai-customs-faq",
+          "publisher": "Dubai Customs",
+          "title": "FAQ: customs duty is 5% of the CIF value (GCC Common Customs Law)",
+          "url": "https://www.dubaicustoms.gov.ae/en/mobile/pages/faq.aspx"
+        },
+        {
+          "id": "uae-moft-gcc-ftas",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "GCC free trade agreements (China listed as under negotiation)",
+          "url": "https://www.trade.gov.ae/web/guest/gcc-free-trade-agreements"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "UAE–Vietnam CEPA (since 3 Feb 2026)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-vietnam-cepa-schedule",
+          "publisher": "UAE–Vietnam CEPA, Appendix 2A-A (published by WTO Center Vietnam)",
+          "title": "Tariff schedule of the UAE: 6105.10, 6109.10, 6110.20 base rate 5%, category E(0), duty-free on entry into force",
+          "url": "https://wtocenter.vn/download/19643/2a.a-appendix-2a-a-tariff-schedule-of-uae.pdf"
+        },
+        {
+          "id": "uae-moft-vietnam-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–Vietnam CEPA (signed 28 October 2024, entered into force 3 February 2026)",
+          "url": "https://www.trade.gov.ae/uae-vietnam-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "UAE–Vietnam CEPA (since 3 Feb 2026)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-vietnam-cepa-schedule",
+          "publisher": "UAE–Vietnam CEPA, Appendix 2A-A (published by WTO Center Vietnam)",
+          "title": "Tariff schedule of the UAE: 6105.10, 6109.10, 6110.20 base rate 5%, category E(0), duty-free on entry into force",
+          "url": "https://wtocenter.vn/download/19643/2a.a-appendix-2a-a-tariff-schedule-of-uae.pdf"
+        },
+        {
+          "id": "uae-moft-vietnam-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–Vietnam CEPA (signed 28 October 2024, entered into force 3 February 2026)",
+          "url": "https://www.trade.gov.ae/uae-vietnam-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "United Arab Emirates",
+      "destination_key": "uae",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "UAE–Vietnam CEPA (since 3 Feb 2026)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "uae-vietnam-cepa-schedule",
+          "publisher": "UAE–Vietnam CEPA, Appendix 2A-A (published by WTO Center Vietnam)",
+          "title": "Tariff schedule of the UAE: 6105.10, 6109.10, 6110.20 base rate 5%, category E(0), duty-free on entry into force",
+          "url": "https://wtocenter.vn/download/19643/2a.a-appendix-2a-a-tariff-schedule-of-uae.pdf"
+        },
+        {
+          "id": "uae-moft-vietnam-cepa",
+          "publisher": "UAE Ministry of Foreign Trade",
+          "title": "UAE–Vietnam CEPA (signed 28 October 2024, entered into force 3 February 2026)",
+          "url": "https://www.trade.gov.ae/uae-vietnam-comprehensive-economic-partnership-agreement"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Nepal–India Treaty of Trade or SAFTA (LDC) — 70% rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "nepal-india-treaty-text",
+          "publisher": "Trade and Export Promotion Centre (TEPC), Government of Nepal",
+          "title": "Treaty of Trade between Nepal and India, with Protocol (Article V rules of origin)",
+          "url": "http://www.tepc.gov.np/tradeagreement/Treaty%20of%20Trade.pdf"
+        },
+        {
+          "id": "in-treaty-ntfn-94-2010",
+          "publisher": "Textiles Committee, Government of India – Notification 94/2010-Customs",
+          "title": "Nepal–India Treaty of Trade: whole basic customs duty exempted for qualifying Nepali manufactures with a Nepali certificate of origin",
+          "url": "https://www.txcindia.gov.in/html/cs94-2k10%20230910.htm"
+        },
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Nepal–India Treaty of Trade or SAFTA (LDC) — 70% rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "nepal-india-treaty-text",
+          "publisher": "Trade and Export Promotion Centre (TEPC), Government of Nepal",
+          "title": "Treaty of Trade between Nepal and India, with Protocol (Article V rules of origin)",
+          "url": "http://www.tepc.gov.np/tradeagreement/Treaty%20of%20Trade.pdf"
+        },
+        {
+          "id": "in-treaty-ntfn-94-2010",
+          "publisher": "Textiles Committee, Government of India – Notification 94/2010-Customs",
+          "title": "Nepal–India Treaty of Trade: whole basic customs duty exempted for qualifying Nepali manufactures with a Nepali certificate of origin",
+          "url": "https://www.txcindia.gov.in/html/cs94-2k10%20230910.htm"
+        },
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Nepal–India Treaty of Trade or SAFTA (LDC) — 70% rule",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "nepal-india-treaty-text",
+          "publisher": "Trade and Export Promotion Centre (TEPC), Government of Nepal",
+          "title": "Treaty of Trade between Nepal and India, with Protocol (Article V rules of origin)",
+          "url": "http://www.tepc.gov.np/tradeagreement/Treaty%20of%20Trade.pdf"
+        },
+        {
+          "id": "in-treaty-ntfn-94-2010",
+          "publisher": "Textiles Committee, Government of India – Notification 94/2010-Customs",
+          "title": "Nepal–India Treaty of Trade: whole basic customs duty exempted for qualifying Nepali manufactures with a Nepali certificate of origin",
+          "url": "https://www.txcindia.gov.in/html/cs94-2k10%20230910.htm"
+        },
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "SAFTA (LDC) — seaports only since May 2025",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        },
+        {
+          "id": "in-dgft-bd-rmg-2025",
+          "publisher": "Press Information Bureau, Government of India",
+          "title": "DGFT Notification 07/2025-26 (17 May 2025): ready-made garments from Bangladesh only through Nhava Sheva and Kolkata seaports, not land ports",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2129380"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "SAFTA (LDC) — seaports only since May 2025",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        },
+        {
+          "id": "in-dgft-bd-rmg-2025",
+          "publisher": "Press Information Bureau, Government of India",
+          "title": "DGFT Notification 07/2025-26 (17 May 2025): ready-made garments from Bangladesh only through Nhava Sheva and Kolkata seaports, not land ports",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2129380"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "SAFTA (LDC) — seaports only since May 2025",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-safta-ldc-99-2011",
+          "publisher": "Government of India – Notification 99/2011-Customs (gazette text, third-party copy)",
+          "title": "SAFTA: whole basic customs duty exempted for goods from Bangladesh, Bhutan, Maldives, Nepal and Afghanistan, except alcohol and tobacco (about 25 lines)",
+          "url": "http://indiapakistantrade.org/data/policy/SAFTA/2011/Notification%2099-2011.pdf"
+        },
+        {
+          "id": "in-dgft-bd-rmg-2025",
+          "publisher": "Press Information Bureau, Government of India",
+          "title": "DGFT Notification 07/2025-26 (17 May 2025): ready-made garments from Bangladesh only through Nhava Sheva and Kolkata seaports, not land ports",
+          "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2129380"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 22,
+      "scheme": "20% basic duty + 10% surcharge on it (MFN)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-ntfn-45-2025",
+          "publisher": "CBIC – Notification 45/2025-Customs (24 Oct 2025)",
+          "title": "Effective rates of customs duty from 1 Nov 2025, superseding 50/2017-Customs (no Chapter 61 entry)",
+          "url": "https://www.cbic.gov.in/resources/htdocs-cbec/cst_45_2025_3.pdf"
+        },
+        {
+          "id": "in-budget-2026-tru",
+          "publisher": "Ministry of Finance, India – Tax Research Unit",
+          "title": "Union Budget 2026-27, customs changes: \"Chapter 57-65: No Change\"; Social Welfare Surcharge defined",
+          "url": "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 22,
+      "scheme": "20% basic duty + 10% surcharge on it (MFN)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-ntfn-45-2025",
+          "publisher": "CBIC – Notification 45/2025-Customs (24 Oct 2025)",
+          "title": "Effective rates of customs duty from 1 Nov 2025, superseding 50/2017-Customs (no Chapter 61 entry)",
+          "url": "https://www.cbic.gov.in/resources/htdocs-cbec/cst_45_2025_3.pdf"
+        },
+        {
+          "id": "in-budget-2026-tru",
+          "publisher": "Ministry of Finance, India – Tax Research Unit",
+          "title": "Union Budget 2026-27, customs changes: \"Chapter 57-65: No Change\"; Social Welfare Surcharge defined",
+          "url": "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 22,
+      "scheme": "20% basic duty + 10% surcharge on it (MFN)",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-ntfn-45-2025",
+          "publisher": "CBIC – Notification 45/2025-Customs (24 Oct 2025)",
+          "title": "Effective rates of customs duty from 1 Nov 2025, superseding 50/2017-Customs (no Chapter 61 entry)",
+          "url": "https://www.cbic.gov.in/resources/htdocs-cbec/cst_45_2025_3.pdf"
+        },
+        {
+          "id": "in-budget-2026-tru",
+          "publisher": "Ministry of Finance, India – Tax Research Unit",
+          "title": "Union Budget 2026-27, customs changes: \"Chapter 57-65: No Change\"; Social Welfare Surcharge defined",
+          "url": "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 22,
+      "scheme": "MFN — no ASEAN–India concession on these lines",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-aifta-46-2011",
+          "publisher": "CUSTADA – consolidation of Notification 46/2011-Customs (ASEAN–India FTA)",
+          "title": "India’s ASEAN concessions: no entries for 6105 10, 6109 or 6110 20",
+          "url": "https://custada.in/CUSTADA-Online/document/document/Ntfn-046-01.06.2011.htm"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 22,
+      "scheme": "MFN — no ASEAN–India concession on these lines",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-aifta-46-2011",
+          "publisher": "CUSTADA – consolidation of Notification 46/2011-Customs (ASEAN–India FTA)",
+          "title": "India’s ASEAN concessions: no entries for 6105 10, 6109 or 6110 20",
+          "url": "https://custada.in/CUSTADA-Online/document/document/Ntfn-046-01.06.2011.htm"
+        }
+      ]
+    },
+    {
+      "destination": "India",
+      "destination_key": "india",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 22,
+      "scheme": "MFN — no ASEAN–India concession on these lines",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "in-cbic-tariff",
+          "publisher": "Central Board of Indirect Taxes and Customs (CBIC), India",
+          "title": "Customs Tariff of India – Chapter 61: 6109 10 00 \"20% or Rs. 45 per piece, whichever is higher\"; 6105 10 20% or Rs 83; 6110 20 00 20% or Rs 85",
+          "url": "https://www.cbic.gov.in/entities/cbic-content-mst/MTcyNTQ5"
+        },
+        {
+          "id": "in-aifta-46-2011",
+          "publisher": "CUSTADA – consolidation of Notification 46/2011-Customs (ASEAN–India FTA)",
+          "title": "India’s ASEAN concessions: no entries for 6105 10, 6109 or 6110 20",
+          "url": "https://custada.in/CUSTADA-Online/document/document/Ntfn-046-01.06.2011.htm"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "LDC preference (to 23 Nov 2029) — 60% FOB materials rule",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-ldc-appendix-2",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 2 (amended 31 Dec 2024): goods and preferential rates — every Chapter 61 and 62 line at 0%, including 6109.10, 6105.10 and 6110.20 (spreadsheet)",
+          "url": "https://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx"
+        },
+        {
+          "id": "kr-ldc-appendix-1",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "LDC preferential tariff regulations, Appendix 1 (amended 28 Feb 2025): eligible countries; Note 1 — preferences for Nepal, Laos and Bangladesh apply to goods declared for import by 23 November 2029",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?gubun=&flSeq=159640043&bylClsCd=110201"
+        },
+        {
+          "id": "kr-ldc-decree",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Regulations on Providing Preferential Tariff Treatment to Least Developed Countries (최빈개발도상국에 대한 특혜관세 공여 규정), Presidential Decree No. 35947, in force 2 January 2026: Art. 2 (three years after graduation), Art. 5 (rules of origin: non-originating materials ≤ 60% of FOB price, Korean materials excluded; certificate of origin)",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B5%9C%EB%B9%88%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD%EC%97%90%EB%8C%80%ED%95%9C%ED%8A%B9%ED%98%9C%EA%B4%80%EC%84%B8%EA%B3%B5%EC%97%AC%EA%B7%9C%EC%A0%95"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Korea–India CEPA — needs Indian or Korean fabric",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Korea–India CEPA — needs Indian or Korean fabric",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Korea–India CEPA — needs Indian or Korean fabric",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 2.6,
+      "scheme": "Korea–China FTA staged rate (2026)",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 2.6,
+      "scheme": "Korea–China FTA staged rate (2026)",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "China",
+      "origin_key": "china",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 5.2,
+      "scheme": "Korea–China FTA staged rate (2026)",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Korea–Vietnam FTA",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Korea–Vietnam FTA",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "South Korea",
+      "destination_key": "korea",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Korea–Vietnam FTA",
+      "conditional": true,
+      "verified": "2026-09-27",
+      "sources": [
+        {
+          "id": "kr-fta-rates",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Decree of the Act on Special Cases of the Customs Act for the Implementation of FTAs (Presidential Decree No. 36017, in force 1 May 2026), tariff schedules for 2026: Korea–Vietnam 0%; Korea–ASEAN 0–5%; Korea–China 2.6% (6105.10, 6109.10) and 5.2% (6110.20); Korea–India CEPA 0%; RCEP",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EB%A0%B9"
+        },
+        {
+          "id": "kr-fta-origin-rules",
+          "publisher": "Korea Ministry of Government Legislation – National Law Information Center",
+          "title": "Enforcement Rule of the FTA Customs Special Cases Act (in force 1 May 2026), product-specific rules of origin for Chapter 61: Korea–India CEPA “made from non-originating yarn” (fabric must originate); Korea–Vietnam and Korea–China change of chapter or 40% value content",
+          "url": "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%9E%90%EC%9C%A0%EB%AC%B4%EC%97%AD%ED%98%91%EC%A0%95%EC%9D%98%EC%9D%B4%ED%96%89%EC%9D%84%EC%9C%84%ED%95%9C%EA%B4%80%EC%84%B8%EB%B2%95%EC%9D%98%ED%8A%B9%EB%A1%80%EC%97%90%EA%B4%80%ED%95%9C%EB%B2%95%EB%A5%A0%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs (while Nepal is an LDC)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-np-joint-statement-2024",
+          "publisher": "Government of China (gov.cn)",
+          "title": "China–Nepal Joint Statement, 3 December 2024: zero-tariff treatment for Nepal under 100% of tariff lines; land ports and border trade points",
+          "url": "https://english.www.gov.cn/news/202412/04/content_WS674f941ac6d0868f4e8eda6d.html"
+        },
+        {
+          "id": "cn-gacc-order-231",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Order No. 231, as amended by Order No. 273 (2024): rules of origin for goods from least developed countries (change of heading or 40% value content; Chinese materials count as originating; direct transport; certificate)",
+          "url": "http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/11/2024113015355143360.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs (while Nepal is an LDC)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-np-joint-statement-2024",
+          "publisher": "Government of China (gov.cn)",
+          "title": "China–Nepal Joint Statement, 3 December 2024: zero-tariff treatment for Nepal under 100% of tariff lines; land ports and border trade points",
+          "url": "https://english.www.gov.cn/news/202412/04/content_WS674f941ac6d0868f4e8eda6d.html"
+        },
+        {
+          "id": "cn-gacc-order-231",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Order No. 231, as amended by Order No. 273 (2024): rules of origin for goods from least developed countries (change of heading or 40% value content; Chinese materials count as originating; direct transport; certificate)",
+          "url": "http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/11/2024113015355143360.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Nepal",
+      "origin_key": "nepal",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs (while Nepal is an LDC)",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-np-joint-statement-2024",
+          "publisher": "Government of China (gov.cn)",
+          "title": "China–Nepal Joint Statement, 3 December 2024: zero-tariff treatment for Nepal under 100% of tariff lines; land ports and border trade points",
+          "url": "https://english.www.gov.cn/news/202412/04/content_WS674f941ac6d0868f4e8eda6d.html"
+        },
+        {
+          "id": "cn-gacc-order-231",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Order No. 231, as amended by Order No. 273 (2024): rules of origin for goods from least developed countries (change of heading or 40% value content; Chinese materials count as originating; direct transport; certificate)",
+          "url": "http://www.customs.gov.cn/eportal/fileDir/customs/resource/cms/2024/11/2024113015355143360.pdf"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-embassy-bd-zero-tariff",
+          "publisher": "Embassy of China in Bangladesh",
+          "title": "China’s zero-tariff treatment for 100% of tariff lines covers Bangladesh (24 September 2024)",
+          "url": "http://bd.china-embassy.gov.cn/eng/zmjw/202409/t20240924_11495697.htm"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-embassy-bd-zero-tariff",
+          "publisher": "Embassy of China in Bangladesh",
+          "title": "China’s zero-tariff treatment for 100% of tariff lines covers Bangladesh (24 September 2024)",
+          "url": "http://bd.china-embassy.gov.cn/eng/zmjw/202409/t20240924_11495697.htm"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Bangladesh",
+      "origin_key": "bangladesh",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "Zero tariff for LDCs",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-tariff-2024-9",
+          "publisher": "State Council Customs Tariff Commission, China",
+          "title": "Announcement 2024 No. 9: 0% special preferential rate on 100% of tariff lines for least developed countries with diplomatic relations, from 1 December 2024",
+          "url": "https://www.gov.cn/lianbo/bumen/202409/content_6974163.htm"
+        },
+        {
+          "id": "cn-embassy-bd-zero-tariff",
+          "publisher": "Embassy of China in Bangladesh",
+          "title": "China’s zero-tariff treatment for 100% of tariff lines covers Bangladesh (24 September 2024)",
+          "url": "http://bd.china-embassy.gov.cn/eng/zmjw/202409/t20240924_11495697.htm"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 6,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 6,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "India",
+      "origin_key": "india",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 6,
+      "scheme": "MFN",
+      "conditional": false,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit T-shirts",
+      "hs_code": "6109.10",
+      "rate_percent": 0,
+      "scheme": "China–ASEAN FTA",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton knit polo shirts",
+      "hs_code": "6105.10",
+      "rate_percent": 0,
+      "scheme": "China–ASEAN FTA",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    },
+    {
+      "destination": "China",
+      "destination_key": "china",
+      "duty_basis": "CIF",
+      "origin": "Vietnam",
+      "origin_key": "vietnam",
+      "product": "Cotton sweatshirts & hoodies",
+      "hs_code": "6110.20",
+      "rate_percent": 0,
+      "scheme": "China–ASEAN FTA",
+      "conditional": true,
+      "verified": "2026-09-25",
+      "sources": [
+        {
+          "id": "cn-gacc-tariff-query",
+          "publisher": "General Administration of Customs of China (GACC)",
+          "title": "Online tariff query, 2026: 6109100000, 6105100010/90 and 6110200010/90 — MFN 6%, import VAT 13%",
+          "url": "https://online.customs.gov.cn/ociswebserver/pages/jckspsl/index.html"
+        }
+      ]
+    }
+  ]
+}
