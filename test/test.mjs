@@ -59,16 +59,23 @@ assert.deepEqual(fr.map((o) => o.mode), ['Sea, shared container (LCL)', 'Sea, 20
 near(fr[0].cost, 576, 'lcl cost'); near(fr[2].perPiece, 1.6, 'air per piece');
 assert.equal(freightCosts(p, 5000, { airPerKg: 0, lclPerRt: 0, fcl: { '20': 0, '40': 0, '40hc': 0 } }).length, 0);
 
-// MOQ planner: 3 × 1,000 tees + 2 × 600 polos
-const mq = planStyles([{ name: 'Tee', colours: 3, perColour: 1000 }, { name: 'Polo', colours: 2, perColour: 600 }]);
-assert.equal(mq.planned, 4200); assert.equal(mq.minimum, 5000); assert.equal(mq.colourRuns, 5);
-assert.equal(mq.allMeetMoq, false);
-assert.equal(mq.styles[1].belowMoq, true); assert.equal(mq.styles[1].coloursAtSameTotal, 1); // 1,200 pieces → 1 colour at 1,000
-near(mq.monthsOfOutput.low, 4200 / 30000, 'months low'); assert.equal(mq.overOneMonth, false);
-assert.equal(planStyles([{ name: 'Big', colours: 31, perColour: 1000 }]).overOneMonth, true); // 31,000 > 30,000
-// Review fix: 28,000 is about a month, not "more than a month"
-assert.equal(planStyles([{ name: 'Mid', colours: 28, perColour: 1000 }]).overOneMonth, false);
-assert.equal(planStyles([{ name: 'Mid', colours: 28, perColour: 1000 }]).aboutOneMonth, true);
+// MOQ planner: 200 per style-colour AND 1,000 per order. 3 × 300 tees + 2 × 150 polos
+const mq = planStyles([{ name: 'Tee', colours: 3, perColour: 300 }, { name: 'Polo', colours: 2, perColour: 150 }]);
+assert.equal(mq.planned, 1200); assert.equal(mq.minimum, 1000); assert.equal(mq.colourRuns, 5);
+assert.equal(mq.allMeetMoq, false); assert.equal(mq.orderMeetsMinimum, true); assert.equal(mq.meetsAll, false);
+assert.equal(mq.styles[0].belowMoq, false);
+assert.equal(mq.styles[1].belowMoq, true); assert.equal(mq.styles[1].coloursAtSameTotal, 1); // 300 pieces → 1 colour at 200
+assert.equal(mq.styles[1].topUp, 100);
+near(mq.monthsOfOutput.low, 1200 / 50000, 'months low'); assert.equal(mq.overOneMonth, false);
+// Three colours of 200 = 600: every colour is fine but the order is under 1,000
+const three = planStyles([{ name: 'Tee', colours: 3, perColour: 200 }]);
+assert.equal(three.allMeetMoq, true); assert.equal(three.orderMeetsMinimum, false); assert.equal(three.orderShortfall, 400); assert.equal(three.meetsAll, false);
+// 5 × 200 = 1,000 meets both
+assert.equal(planStyles([{ name: 'Tee', colours: 5, perColour: 200 }]).meetsAll, true);
+assert.equal(planStyles([{ name: 'Big', colours: 51, perColour: 1000 }]).overOneMonth, true); // 51,000 > 50,000
+// 45,000 is about a month, not "more than a month"
+assert.equal(planStyles([{ name: 'Mid', colours: 45, perColour: 1000 }]).overOneMonth, false);
+assert.equal(planStyles([{ name: 'Mid', colours: 45, perColour: 1000 }]).aboutOneMonth, true);
 // Review fix: no quantity or no cartons gives no freight rows (no $0 "cheapest")
 const empty = plan({ qty: 0, pieceGrams: 172, packGrams: 20, perCarton: 50, cartonCm: [60, 40, 40], cartonTareKg: 1.2, fill: 0.85 });
 assert.equal(freightCosts(empty, 0, { airPerKg: 5, lclPerRt: 60, fcl: { '20': 2000, '40': 0, '40hc': 0 } }).length, 0);
@@ -76,4 +83,36 @@ assert.equal(freightCosts(empty, 0, { airPerKg: 5, lclPerRt: 60, fcl: { '20': 20
 const small = plan({ qty: 200, pieceGrams: 172, packGrams: 20, perCarton: 50, cartonCm: [60, 40, 40], cartonTareKg: 1.2, fill: 0.85 });
 assert.match(freightCosts(small, 200, { airPerKg: 0, lclPerRt: 60, fcl: { '20': 0, '40': 0, '40hc': 0 } })[0].note, /minimum charge/);
 
-console.log('test-tools: all checks passed');
+
+// Australia landed cost: FOB US$3.20 at A$1.50 = A$4.80; freight US$0.35 = A$0.525; 5% duty = A$0.24;
+// GST = 10% of (4.80 + 0.525 + 0.24) = 0.5565; broker A$300 over 3,000 pcs = A$0.10
+{
+  const { landedAud, orderBy } = await import('../src/au-landed.ts');
+  const r = landedAud({ fobUsd: 3.2, freightUsd: 0.35, qty: 3000, audPerUsd: 1.5, dutyPct: 5, chargesAud: 300 });
+  near(r.duty, 0.24, 'au duty'); near(r.gst, 0.5565, 'au gst'); near(r.exGst, 4.80 + 0.525 + 0.24 + 0.1, 'au ex gst');
+  near(landedAud({ fobUsd: 3.2, freightUsd: 0.35, qty: 3000, audPerUsd: 1.5, dutyPct: 0, chargesAud: 0 }).duty, 0, 'au ldc duty');
+  // Calendar: 14+7+7+30+56+7 = 121 days safe with a sample; 30+56+7 = 93 without
+  const d = new Date('2027-02-01T00:00:00Z');
+  assert.equal(orderBy(d, false, 'safe').totalDays, 121);
+  assert.equal(orderBy(d, true, 'safe').totalDays, 93);
+  assert.equal(orderBy(d, false, 'safe').startBy.toISOString().slice(0, 10), '2026-10-03');
+
+  // India: CIF basis, MFN 20% with a per-piece minimum, 10% SWS on duty, IGST on CIF + duties
+  const IN = await import('../src/in-landed.ts');
+  // Tee at US$3.20 × 97.2 = 311.04 + ₹10 freight = 321.04 CIF
+  const t = IN.landedInr({ garment: 'tee', fobUsd: 3.2, freightInr: 10, qty: 2000, inrPerUsd: 97.2, treaty: true, chargesInr: 4000 });
+  near(t.cif, 321.04, 'in cif'); near(t.bcd, 0, 'in treaty bcd'); near(t.igst, 16.052, 'in igst 5%'); near(t.charges, 2, 'in charges');
+  // MFN: 20% of 321.04 = 64.208 (> ₹45 minimum); SWS 6.4208
+  near(t.mfnBcd, 64.208, 'in mfn bcd'); near(t.mfnSws, 6.4208, 'in mfn sws'); near(t.savingPerPiece, 70.6288, 'in saving');
+  // Minimum bites on a cheap tee: CIF 150 → 20% = 30 < 45
+  near(IN.duties(150, 'tee', false).bcd, 45, 'in min duty');
+  // IGST 18% above ₹2,500 per piece
+  assert.equal(IN.duties(3000, 'hoodie', true).igstPct, 18);
+  // Calendar: 14+7+7+30+10 = 68 days safe with a new sample; 30+10 = 40 with one
+  const di = new Date('2027-03-01T00:00:00Z');
+  assert.equal(IN.orderBy(di, false, 'safe').totalDays, 68);
+  assert.equal(IN.orderBy(di, true, 'safe').totalDays, 40);
+  assert.equal(IN.orderBy(di, false, 'best').totalDays, 40);
+}
+
+console.log('all checks passed');

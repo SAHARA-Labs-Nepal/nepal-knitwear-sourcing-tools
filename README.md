@@ -10,6 +10,8 @@ Free, open tools and data for importers buying knit basics (T-shirts, polos, swe
 | Knitwear carton & container calculator, with a freight-quote comparison | [trishaktiapparel.com/tools/carton-calculator/](https://trishaktiapparel.com/tools/carton-calculator/) | [`src/carton.ts`](src/carton.ts) |
 | MOQ & colour planner: styles × colours against a per-colour minimum | [trishaktiapparel.com/tools/moq-planner/](https://trishaktiapparel.com/tools/moq-planner/) | [`src/moq.ts`](src/moq.ts) |
 | Garment import duty dataset (CSV / JSON) | [trishaktiapparel.com/tools/duty-rates/](https://trishaktiapparel.com/tools/duty-rates/) | [`data/`](data/) |
+| Nepal to India import duty calculator (₹): landed cost per piece in rupees, treaty 0% vs MFN, IGST, order-by date | [trishaktiapparel.com/tools/nepal-india-import-duty-calculator/](https://trishaktiapparel.com/tools/nepal-india-import-duty-calculator/) | [`src/in-landed.ts`](src/in-landed.ts) |
+| Australia landed cost & order calendar (A$, duty, 10% GST) | [trishaktiapparel.com/tools/australia-landed-cost/](https://trishaktiapparel.com/tools/australia-landed-cost/) | [`src/au-landed.ts`](src/au-landed.ts) |
 | Knitwear tech-pack & QC template (Excel / PDF) | [trishaktiapparel.com/tools/tech-pack-template/](https://trishaktiapparel.com/tools/tech-pack-template/) | [`templates/`](templates/) |
 
 ## What the 0% checker covers
