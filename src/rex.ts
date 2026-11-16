@@ -1,6 +1,6 @@
 // REX number checks against the European Commission's public REX database
 // (the same page anyone can use by hand: ec.europa.eu/taxation_customs/dds2/eos/rex_validation.jsp).
-// The live tool at https://trishaktiapparel.com/tools/rex-checker/ uses this same code.
+// The live tool at https://trishaktiapparel.com/tools/rex-checker/ is built from this code.
 // No API key is needed: the Commission's page is public. Please be gentle with it
 // (a few numbers at a time, and cache answers), as the live tool does.
 // We pass on only what a buyer needs to judge a supplier: the status, the
