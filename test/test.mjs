@@ -4,6 +4,7 @@ import assert from 'node:assert/strict';
 import { check, korea, australia, india } from '../src/origin-check.ts';
 import { freightCosts, garmentGrams, plan } from '../src/carton.ts';
 import { planStyles } from '../src/moq.ts';
+import * as REX from '../src/rex.ts';
 
 const tee = { fob: 3.2, fabric: 1.6, fabricOrigin: 'china', trims: 0.2, trimsOrigin: 'china', labour: 0.9 };
 const near = (a, b, msg) => assert.ok(Math.abs(a - b) < 1e-6, `${msg}: ${a} vs ${b}`);
@@ -113,6 +114,27 @@ assert.match(freightCosts(small, 200, { airPerKg: 0, lclPerRt: 60, fcl: { '20': 
   assert.equal(IN.orderBy(di, false, 'safe').totalDays, 68);
   assert.equal(IN.orderBy(di, true, 'safe').totalDays, 40);
   assert.equal(IN.orderBy(di, false, 'best').totalDays, 40);
+}
+
+// REX checker (src/rex.ts): made-up fragments in the Commission's layout; no real exporter data here.
+{
+  const row = (l, v) => `<tr><td>\n<b>${l}</b></td>\n<td class="rex_det_cell_last">${v}\n</td></tr>`;
+  const VALID = `<table>${row('Status of the REX number', 'The REX number is valid')}${row('Date of registration', '01-02-2026')}${row('Name of the registered exporter', 'Example &amp; Sons')}${row('E-mail address', 'owner@example.com')}${row('Country', 'Nepal')}</table>`;
+  const MISSING = `<div id="search_info" >\n${' '.repeat(28)}<p>This REX or EORI/TIN number does not exist</p>${'\n'.repeat(20)}</div>`;
+  assert.ok(REX.REX_RE.test('NPREX1244417670168NPTEPC') && !REX.REX_RE.test('NPX123') && !REX.REX_RE.test('nprex1'));
+  assert.deepEqual(REX.splitRex('NPREX 1244 4176, nprex12444176; DEREX9'), ['NPREX12444176', 'DEREX9']);
+  const v = REX.parseRexHtml(VALID);
+  assert.equal(v.status, 'valid'); assert.equal(v.name, 'Example & Sons'); assert.equal(v.country, 'Nepal');
+  assert.ok(!JSON.stringify(v).includes('@'), 'e-mail never passed on');
+  assert.equal(REX.parseRexHtml(MISSING).status, 'not-found');
+  assert.equal(REX.parseRexHtml(`<table>${row('Status of the REX number', 'The REX number is not valid')}</table>`).status, 'not-valid');
+  assert.equal(REX.parseRexHtml('<p>maintenance</p>').status, 'unavailable');
+  const realFetch = globalThis.fetch;
+  globalThis.fetch = async (u) => new Response(new URL(String(u)).searchParams.get('Number') === 'NPREXGOOD1' ? VALID : MISSING);
+  try {
+    const r = await REX.checkRex('NPREXGOOD1, hello, NPREXNONE2', { pauseMs: 0 });
+    assert.deepEqual(r.map((x) => x.status), ['valid', 'bad-format', 'not-found']);
+  } finally { globalThis.fetch = realFetch; }
 }
 
 console.log('all checks passed');
